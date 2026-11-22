@@ -13,6 +13,21 @@ Beta by **Devious Developments**.
 **Download:** [Releases -> Latest](../../releases/latest) (Windows, one .exe, no install).
 **On iPhone and Android:** [geneweaver-beta](https://github.com/yodahlorian/geneweaver-beta) (the `android` release holds the .apk).
 
+## What changed in 0.2.0
+
+- A new opening: Dr. Hollis's lab, five pedestals, look at each creature before you choose your partner.
+- Redrawn people (player, Dr. Hollis, trainers) with a proper walk.
+- Creature fronts drawn at full size, no floating parts.
+- New Midnight Neon shell is the default; bigger screen, smoother D-pad.
+- Towns in full colour: three-quarter-view buildings, even doors, atomic-age roofs.
+- Buildings carry emblems instead of names: caduceus (heal), flask (lab), money bag (shop), fist (gym), helix (Loom).
+- Every menu fits its box; the world map marks where you are with a red dot.
+- The Loom shows the child's stat shape against both parents, its types, tier, cap and traits.
+- A full stats screen: your own placed points in gold, trait bonuses in green and drawbacks in red, type matchups, lineage.
+- Healing happens inside the Restore Center: the medic loads your cubes and the machine solves them back to health.
+- New capture animation: the cube bursts on the creature, closes around it and solves itself in its colour.
+- A new game emblem and app icon.
+
 ## What changed in 0.1.2
 
 - Trainers and gym leaders now appear at the start of their battles.
