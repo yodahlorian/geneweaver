@@ -1,5 +1,11 @@
 {
- "retired": 0,
- "history": [],
+ "retired": 3,
+ "history": [
+  {
+   "tag": "v0.1.0-beta",
+   "downloads": 3,
+   "retired": "2026-11-22 02:14:46"
+  }
+ ],
  "note": "downloads of betas whose release was replaced"
 }
