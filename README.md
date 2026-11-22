@@ -13,6 +13,10 @@ Beta by **Devious Developments**.
 **Download:** [Releases -> Latest](../../releases/latest) (Windows, one .exe, no install).
 **On iPhone and Android:** [geneweaver-beta](https://github.com/yodahlorian/geneweaver-beta) (the `android` release holds the .apk).
 
+## What changed in 0.1.2
+
+- Trainers and gym leaders now appear at the start of their battles.
+
 ## What changed in 0.1.1
 
 - Hold B to run.
