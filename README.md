@@ -11,4 +11,4 @@ your creatures into new ones nobody else has: every merge is decided by its pare
 Beta by **Devious Developments**.
 
 **Download:** [Releases → Latest](../../releases/latest) (Windows, one .exe, no install).
-**On iPhone:** [geneweaver-beta](https://github.com/yodahlorian/geneweaver-beta) · **On Android:** the `android` release on the same page.
+**On iPhone and Android:** [geneweaver-beta](https://github.com/yodahlorian/geneweaver-beta) (the `android` release holds the .apk).
