@@ -13,6 +13,15 @@ Beta by **Devious Developments**.
 **Download:** [Releases -> Latest](../../releases/latest) (Windows, one .exe, no install).
 **On iPhone and Android:** [geneweaver-beta](https://github.com/yodahlorian/geneweaver-beta) (the `android` release holds the .apk).
 
+## What changed in 0.1.1
+
+- Hold B to run.
+- A local in every town with tips, and Dr. Hollis in Homestead.
+- Grass and paths are easier to tell apart.
+- At the top of a route you can leave from either lane.
+- Battles rebalanced: stats, traits and type advantage retuned from 100,000 simulated fights; no single stat or trait is the best pick.
+- Levelling is twice as fast.
+
 ## What changed in 0.1.0
 
 The first playable slice of Geneweaver.
