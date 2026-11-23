@@ -13,6 +13,10 @@ Beta by **Devious Developments**.
 **Download:** [Releases -> Latest](../../releases/latest) (Windows, one .exe, no install).
 **On iPhone and Android:** [geneweaver-beta](https://github.com/yodahlorian/geneweaver-beta) (the `android` release holds the .apk).
 
+## What changed in 0.2.2
+
+- A hidden cheat menu for testing. Off every time the game starts.
+
 ## What changed in 0.2.1
 
 - PC and landscape: the D-pad and buttons no longer sit on the screen's bezel (checked on 12 window and phone shapes).
